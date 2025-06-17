@@ -1,0 +1,8 @@
+.RData
+.RDataTmp
+results_df_1350_pw_distribution.rds
+results_df_fp.rds
+results_df_pw.rds
+results_df_pw_distribution.rds
+results_df_pw_naive_15_85.rds
+.Rproj.user
